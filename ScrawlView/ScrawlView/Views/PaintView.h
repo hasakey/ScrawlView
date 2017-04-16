@@ -10,4 +10,6 @@
 
 @interface PaintView : UIView
 
+-(void)clear;
+-(void)back;
 @end

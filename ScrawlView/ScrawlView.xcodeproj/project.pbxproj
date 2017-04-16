@@ -532,6 +532,7 @@
 				2A5847651EA0CCEC008730AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2A5847661EA0CCEC008730AE /* Build configuration list for PBXNativeTarget "ScrawlViewTests" */ = {
 			isa = XCConfigurationList;
@@ -540,6 +541,7 @@
 				2A5847681EA0CCEC008730AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2A5847691EA0CCEC008730AE /* Build configuration list for PBXNativeTarget "ScrawlViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -548,6 +550,7 @@
 				2A58476B1EA0CCEC008730AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
